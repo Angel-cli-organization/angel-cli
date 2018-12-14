@@ -1,4 +1,9 @@
 // github 接口基础地址
-export const baseURL = 'https://api.github.com';
+const baseURL = 'https://api.github.com';
 // organization 名称
-export const orgName = 'Angel-cli-organization';
+const orgName = 'Angel-cli-organization';
+
+export {
+  baseURL,
+  orgName
+}
