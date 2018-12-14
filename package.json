@@ -13,7 +13,9 @@
     "learn": "./bin/learn.js"
   },
   "dependencies": {
-    "commander": "^2.19.0"
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.1",
+    "ora": "^3.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.2.0",
